@@ -1,0 +1,59 @@
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+}
+.body{
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.item-hotel{
+    background-color: rgba(220, 226, 226, 0.938);
+    height: 180px;
+    width: 40%;
+    padding-left: 20px;
+    border: 2px solid #9b9696d0;
+    border-radius: 5px;
+}
+
+.name-hotel{
+    display: block;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.description-hotel{
+    display: block;
+    margin-top: 20px;
+}
+
+
+.img-hotel{
+    margin-left: 500px;
+    margin-top: -80px;
+    width: 30%;
+    border: 1px solid #9b9696d0;
+    
+}
+
+.rating{
+    background-color: rgba(220, 226, 226, 0.938);
+    height: 100px;
+    width: 40%;
+    padding-left: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    border: 2px solid #9b9696d0;
+    border-radius: 5px;
+}
+
+.rating1{
+    font-weight: bold;
+
+}
+
+.review{
+    display: flex;
+    margin-top: 10px;
+    font-weight: bold;
+}
